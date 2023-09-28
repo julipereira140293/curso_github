@@ -1,0 +1,2 @@
+lisagem de todos os susuariso da plaataforma
+buscar > nome>email>id
